@@ -24,7 +24,7 @@
 ## Skills
 
 - **Languages:** JavaScript, Python, SQL
-- **Frameworks & Tools:** [List any specific frameworks or tools you're proficient in]
+- **Frameworks & Tools:** Django, Pytorch
 - **Areas of Expertise:** AIOps, Algorithm Development, Front-End & Back-End Development, Data Analysis
 
 ## Contact Me
