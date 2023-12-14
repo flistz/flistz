@@ -29,9 +29,8 @@
 
 ## Contact Me
 
-- **GitHub:** [Your GitHub URL]
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your Email]
+- **GitHub:** https://github.com/flistz
+- **Email:** mh418970211@gmail.com
 
 Feel free to reach out for collaborations or just a chat about technology and data science!
 
